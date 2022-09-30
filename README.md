@@ -1,6 +1,5 @@
 # StripeAndroid
-Android side strip integration with test API's
-Use your own Secret key and Publish key by signing up on Stripe
+Android side strip integration with test API's. Use your own Secret key and Publish key to test correctly
 
 - Clean Architecture
 - Dependency Injection
